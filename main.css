@@ -52,8 +52,9 @@ body {
  
  section .row img {
    margin: 0 0 30px;
-   width: 100%;
-   height: 400px;
+   object-fit: cover;
+   width: 500;
+   height: 300px;
  }
  
  .col-md-6 {
